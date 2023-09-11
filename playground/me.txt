@@ -1,3 +1,0 @@
-Name: Asif Ansari
-Skills:  JAVASCRIPT, NODE.JS, REACT.JS, EXPRESS.JS, REST API, MONGODB, POSTMAN, JWT, REDUX
-Email: ansariasif449@gmail.com 
